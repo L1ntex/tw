@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    border: black 5px solid
+}
+.tw{
+    background-color: #9F3ED5;
+}
+.po{
+    background-color: #4671D5
+}
+.ac{
+    background-color: #6A48D7;
+}
+.con{
+    background-color: #6C8CD5;
+}.gl{
+background-color: #AD66D5;
+}
+header{
+    background-color: #9F3ED5
+    
+}
+a{
+    border: black 5px solid;
+    background-color: #9F3ED5;
+    font-size:30px;
+    font-color: black;
+   margin: 15px;
+   padding: 5px;
+}
+nav{
+    margin: 20px;
+}
